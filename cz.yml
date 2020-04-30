@@ -99,12 +99,12 @@ biomes: Biomy
 #build-reqs: "All the blocks you need to place to build a $1"
 #reagents-title: Reagents
 #reagents: "All the items you need in the $1 chest"
-#upkeep-title: Input
+upkeep-title: Vstup
 #upkeep: "All the items consumed by the $1"
-#output-title: Output
+output-title: Výstup
 #output: "All the items created by the $1"
-#payout-title: Payout
-#payout: "This region earns $$1"
+payout-title: Výdělek
+payout: "Tento region vydělává $$1"
 #power-input-title: Power Input
 #power-input: "This region consumes $1 power"
 #power-output-title: Power Output
@@ -167,20 +167,20 @@ create: Vytvořit
 wild: "Divočina"
 #new-town-member: "$1 has joined $2"
 #must-be-built-on-top: "A $1 must be built on top of a $2"
-#town-power: "Power: $1/$2"
+town-power: "Moc: $1/$2"
 #port-warmup: "You will be teleported in $1s"
 #teleported: "You have been teleported!"
 location: "Poloha"
 #location-set: "$1 location set"
 rename-town: "Přejmenovat město"
-#rename-desc: "Use /cv rename oldName newName"
-#town-renamed: "Your town has been renamed from $1 to $2"
-#bounty-set: "A bounty has been set on $1 for $2"
+rename-desc: "Použij /cv rename stareJmeno noveJmeno"
+town-renamed: "Tvoje město bylo přejmenováno z $1 na $2"
+bounty-set: "Na $1 byla vypsána odměna $2"
 #bounty-bonus: "You collected a bounty of $1"
-#allied-bounty: "No bounty collected for killing an ally."
-#add-friend: "Add Friend"
-#remove-friend: "Remove Friend"
-#friend-added: "$1 has been added to your friends list"
+allied-bounty: "Nejde získat odměnu za zabití spojence."
+add-friend: "Přidat přítele"
+remove-friend: "Odebrat přítele"
+friend-added: "$1 byl přidán do tvého seznamu přátel."
 #friend-removed: "$1 has been removed from your friends list"
 #bounty: "Set a bounty /cv bounty $1 amount"
 #click-me: ">>>Click me<<<"
