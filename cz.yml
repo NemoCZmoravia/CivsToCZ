@@ -293,7 +293,7 @@ killstreak-points: "Bonus za sérii zabití: $1"
 killjoy-points: "Bonus za přerušení série zabití: $1"
 total-points: "Celkový počet bodů: $1"
 karma: "Karma: $1"
-karma-desc: "Karma je míra "hanby". Čím nižší karma, tím vyžší odměna za smrt hráče."
+karma-desc: 'Karma je míra "hanby". Čím nižší karma, tím vyžší odměna za smrt hráče.'
 karma-gained: "Karma: #$1, $2 získaných peněz"
 karma-lost: "Karma: -$1, $2 stracených peněz"
 combat-tagged: "@{RED}Jste v boji. Neodpojujte se dalších $1 sekund. Bezpečné zóny vás neochrání."
